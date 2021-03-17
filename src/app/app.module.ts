@@ -74,9 +74,12 @@ import { HarihareshwarComponent } from './beaches/harihareshwar/harihareshwar.co
       {path:'bhima',component:BhimashankarComponent},
       {path:'dagdusheth',component:DagdushethComponent},
       {path:'moreshwar',component:MoreshwarComponent},
-      {path:'ganpatipule',component:GanpatipuleComponent}
-      
-
+      {path:'ganpatipule',component:GanpatipuleComponent},
+      {path:'dapoli',component:DapoliComponent},
+      {path:'murud',component:MurudComponent},
+      {path:'tarkarli',component:TarkarliComponent},
+      {path:'alibagh',component:AlibaghComponent},
+      {path:'hari',component:HarihareshwarComponent}
 
     ])
   ],

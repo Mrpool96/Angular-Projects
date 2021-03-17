@@ -1,4 +1,11 @@
-
+.page-holder {
+    min-height: 150vh;
+  }
+  
+  .bg-cover {
+    background-size: cover !important;
+  }
+  
 
 /*
    Multicoloured Hover Variations
